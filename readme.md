@@ -87,6 +87,18 @@ A versatile mobile application with product management and arithmetic problem-so
 - Improve missing number array algorithm efficiency
 - Demonstrate interoperability between Java and Kotlin
 
+## Video
+### Currency Converter App
+![Video Thumbnail](https://drive.google.com/file/d/1mtFZ6YvBdn_zrFk5pFXV_G4q5De7ANU1/view?usp=sharing)
+
+[Click here to watch the video](https://drive.google.com/file/d/1me2Cl4mHglakv03AguGWv5895qMWGpjY/view?usp=sharing)
+
+### Coding Skills App
+![Video Thumbnail](https://drive.google.com/file/d/1mrZ4ewG9BhScyv4KuINUcYNkwWt4ozUB/view?usp=sharing)
+
+[Click here to watch the video](https://drive.google.com/file/d/1mKJ3edAxu_yljYhquIhKL-0wMSvqwYdS/view?usp=sharing)
+
+
 
 ## Contact
 
