@@ -87,7 +87,9 @@ class MainActivity : AppCompatActivity() {
                 }
             })
         } else {
-            binding.tvResult.setText("Please enter a valid amount.")
+            showErrorDialog("Vui lòng nhập số tiền")
+            binding.progressBar2.visibility = View.GONE
+            binding.ipResult.visibility = View.VISIBLE
         }
     }
 
